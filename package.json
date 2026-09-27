@@ -1,0 +1,13 @@
+{
+  "name": "gamelife-restock-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proof of concept for Gamelife availability monitoring",
+  "main": "monitor-test.js",
+  "scripts": {
+    "test": "node monitor-test.js"
+  },
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
